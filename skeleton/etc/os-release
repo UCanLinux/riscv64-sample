@@ -1,0 +1,9 @@
+# /etc/os-release
+#
+NAME=UCanLinux
+VERSION="2019.06.13"
+
+LINUX BRANCH="riscv-linux-4.20"
+BUSYBOX VERSION="4.30"
+TOOLCHAIN VERSION="riscv64-unknown-linux-gnu-gcc (GCC) 8.3.0"
+
